@@ -1,0 +1,10 @@
+from: tools/place-block.lua
+to: gfm
+markdown-headings: setext
+shift-heading-level-by: 1
+
+input-files:
+  # The first file is not parsed as markdown
+  - README.md
+  # The remaining files are docs in pandoc Markdown format.
+  - test/perevirky/basics-intro.md
