@@ -4,8 +4,14 @@ Rivnjannja
 Use `equation` environments to typeset display math elements and
 `\eqref` for links to those formulæ.
 
+The filter is particularly well suited to be run after
+[querverweis][], which generates many of the structures that
+rivnjannja expects.
+
 The name *rivnjannja* is the transliteration of the Ukrainian word
 “рівняння” – "equation".
+
+[querverweis]: https://github.com/tarleb/querverweis
 
 <!-- DO NOT EDIT AFTER THIS LINE! THE FOLLOWING CONTENT IS GENERATED -->
 
