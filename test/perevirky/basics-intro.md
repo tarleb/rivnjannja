@@ -16,9 +16,6 @@ the *time-dependent Schrödinger equation*.
 
 With rivnjannja, this becomes
 
-``` native
-```
-
 ``` latex {#output}
 \begin{equation}\label{schroedinger}
 
