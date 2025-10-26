@@ -8,3 +8,5 @@ input-files:
   - README.md
   # The remaining files are docs in pandoc Markdown format.
   - test/perevirky/basics-intro.md
+  - test/perevirky/typst-basics.md
+  - test/perevirky/typst-header-includes.md

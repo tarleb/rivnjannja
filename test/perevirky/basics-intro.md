@@ -1,4 +1,4 @@
-# Features
+# LaTeX
 
 Rivnjannja converts specially marked spans with math content into
 LaTeX `equation` environments and uses `\eqref` commands for links
